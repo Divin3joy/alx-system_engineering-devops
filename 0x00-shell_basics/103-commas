@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lampnv
+ls -a -m -p
